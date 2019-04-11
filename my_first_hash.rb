@@ -6,11 +6,7 @@ end
 
 
 def shipping_manifest
-  the_manifest = Hash.new
-  the_manifest["whale bone corsets"] = 5
-  the_manifest["porcelain vases"] = 2
-  the_manifest["oil paintins"] = 3
-  return the_manifest
+  the_manifest = {"whale bone corsets" => 5, "porcelain vases" => 2, "oil paintings" => 3}
 end
 
 def retrieval
