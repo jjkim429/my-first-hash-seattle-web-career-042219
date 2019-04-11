@@ -1,5 +1,5 @@
 def my_hash
-  
+  bts = hash.new
 end
 
 
