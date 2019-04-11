@@ -1,5 +1,5 @@
 def my_hash
-  BTS = {"leader" => "RM", "main_vocal" => "Jungkook"}
+  
 end
 
 
