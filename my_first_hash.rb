@@ -1,5 +1,6 @@
 def my_hash
-  bts = hash.new
+  bts = Hash.new
+  bts["leader"] = "RM"
 end
 
 
